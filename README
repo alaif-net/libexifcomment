@@ -1,0 +1,5 @@
+libexifcomment:
+
+It is a wrapper for using the USER COMMENT tag of EXIF.
+
+Dependence: libexif
